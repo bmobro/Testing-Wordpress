@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Testing wordpress</title>
+	<atom:link href="https://bmobro.github.io/Testing-Wordpress/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bmobro.github.io/Testing-Wordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 23 Jun 2019 12:10:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>Uncategorized</title>
+		<link></link>
+				<pubDate>Sun, 23 Jun 2019 12:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false"></guid>
+				<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sale! Digital Product 1 &#36;12.00 &#36;0.00 Add to cart]]></description>
+								<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing the single result</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-41 status-publish first instock product_cat-uncategorized sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://bmobro.github.io/Testing-Wordpress/product/digital-product-1/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-300x300.png" class="woocommerce-placeholder wp-post-image" alt="Placeholder" srcset="https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-600x600.png 600w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://bmobro.github.io/Testing-Wordpress/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Digital Product 1</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>12.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</span></ins></span>
+</a><a href="/Testing-Wordpress/product-category/uncategorized/feed/?add-to-cart=41" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="41" data-product_sku="" aria-label="Add &ldquo;Digital Product 1&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+							<enclosure url="" length="0" type="" />
+			</item>
+	</channel>
+</rss>
